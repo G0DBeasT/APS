@@ -1,0 +1,26 @@
+## QUESTIONS
+- 121. Best Time to Buy and Sell Stock
+- 88. Merge Sorted Array
+- 75. Sort Colors
+- 64. Minimum Path Sum
+- 55. Jump Game
+- 62. Unique Paths
+- 78. Subsets
+- 77. Combinations
+- 46. Permutations
+- 80. Remove Duplicates from Sorted Array II
+- 17. Letter Combinations of a Phone Number
+- 22. Generate Parentheses
+- 696. Count Binary Substrings
+- 1888. Minimum Number of Flips to Make Binary String Alternating
+- 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
+- 1937. Maximum Number of Points with Cost
+- 1536. Minimum Swaps to Arrange a Binary Grid
+- 1545. Find Kth Bit in Nth Binary String
+- 1404. Number of Steps to Reduce a Number in Binary Representation to One
+- 1980. Find Unique Binary String
+- 1382. Balance a Binary Search Tree
+- 1727. Largest Submatrix With Rearrangements
+- 108. Convert Sorted Array to Binary Search Tree
+- 89. Gray Code
+- 5. Longest Palindromic Substring
